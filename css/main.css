@@ -343,7 +343,7 @@ a {
 }
 
 .home {
-  /* width: 500px; */
+ 
   width: 375px;
   height: 860px;
   gap: 0px;
@@ -568,7 +568,7 @@ a {
   }
 }
 .about {
-  /* width: 500px; */
+ 
   width: 375px;
   padding: 91px 0px 38px;
   margin: auto;
@@ -615,7 +615,7 @@ a {
   text-decoration-skip-ink: none;
 }
 .about-img {
-  width: 500px;
+ 
   height: 373px;
   width: 375px;
   background-repeat: no-repeat;
@@ -674,7 +674,7 @@ a {
 }
 .advantages {
   margin: auto;
-  width: 500px;
+ 
   width: 375px;
   height: 1108px;
   margin-top: 93px;
@@ -820,7 +820,7 @@ a {
 
 .reviews {
   padding: 77px 1px;
-  width: 500px;
+
   width: 375px;
   margin: auto;
 }
@@ -877,7 +877,7 @@ a {
 
 .gallery {
   margin: auto;
-  width: 500px;
+
   width: 375px;
   padding: 0px;
 }
