@@ -343,7 +343,8 @@ a {
 }
 
 .home {
-  width: 500px;
+  /* width: 500px; */
+  width: 375px;
   height: 860px;
   gap: 0px;
   opacity: 0px;
@@ -484,6 +485,7 @@ a {
 }
 .benefits {
   width: 424px;
+  width: 375px;
   margin: auto;
 }
 .benefits-title {
@@ -566,7 +568,8 @@ a {
   }
 }
 .about {
-  width: 500px;
+  /* width: 500px; */
+  width: 375px;
   padding: 91px 0px 38px;
   margin: auto;
   display: flex;
@@ -581,6 +584,7 @@ a {
   align-items: start;
   gap: 10px;
   width: 453px;
+  width: 375px;
   padding: 17px 24px 46px;
 }
 .about__item {
@@ -613,7 +617,7 @@ a {
 .about-img {
   width: 500px;
   height: 373px;
-
+  width: 375px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -671,7 +675,8 @@ a {
 .advantages {
   margin: auto;
   width: 500px;
-  height: 1108px;
+  width: 375px;
+  /* height: 1108px; */
   margin-top: 93px;
   padding: 62px 35px;
   background-repeat: no-repeat;
@@ -816,6 +821,7 @@ a {
 .reviews {
   padding: 77px 1px;
   width: 500px;
+  width: 375px;
   margin: auto;
 }
 .reviews-list {
@@ -872,6 +878,7 @@ a {
 .gallery {
   margin: auto;
   width: 500px;
+  width: 375px;
   padding: 0px;
 }
 
