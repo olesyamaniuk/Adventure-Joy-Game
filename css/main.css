@@ -363,11 +363,11 @@ a {
   flex-direction: column;
   align-items: center;
 
-  padding: 277px 10px 0;
+  padding: 277px 4px 0;
 }
 .home-title {
   font-family: Inter;
-  font-size: 40px;
+  font-size: 35px;
   font-weight: 600;
   line-height: 38px;
   letter-spacing: -0.01em;
@@ -377,7 +377,7 @@ a {
 }
 .home-title-two {
   font-family: Inter;
-  font-size: 28px;
+  font-size: 25px;
   font-weight: 600;
   line-height: 38px;
   letter-spacing: -0.01em;
@@ -395,7 +395,7 @@ a {
   text-decoration-skip-ink: none;
   width: 357.9px;
 
-  padding: 64px 0 52px;
+  padding: 40px 0 52px;
 }
 .home-button {
   margin: auto;
@@ -676,9 +676,9 @@ a {
   margin: auto;
   width: 500px;
   width: 375px;
-  /* height: 1108px; */
+  height: 1108px;
   margin-top: 93px;
-  padding: 62px 35px;
+  padding: 62px 15px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -976,7 +976,7 @@ a {
   background: #f5f5f5;
   color: #000000;
 
-  padding: 28px 66px 66px;
+  padding: 28px 46px 66px;
 }
 .footer-container {
   display: flex;
